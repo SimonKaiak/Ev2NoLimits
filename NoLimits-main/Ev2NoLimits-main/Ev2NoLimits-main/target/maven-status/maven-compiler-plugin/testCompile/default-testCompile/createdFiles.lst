@@ -1,0 +1,10 @@
+com\example\NoLimits\service\DetalleVentaServiceTest.class
+com\example\NoLimits\service\PeliculaServiceTest.class
+com\example\NoLimits\service\UsuarioServiceTest.class
+com\example\NoLimits\service\TipoProductoServiceTest.class
+com\example\NoLimits\service\VentasServiceTest.class
+com\example\NoLimits\service\PedidoServiceTest.class
+com\example\NoLimits\service\VideojuegoServiceTest.class
+com\example\NoLimits\service\AccesorioServiceTest.class
+com\example\NoLimits\service\DetallePedidoServiceTest.class
+com\example\NoLimits\service\MetodoPagoServiceTest.class
